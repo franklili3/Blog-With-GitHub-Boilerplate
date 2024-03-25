@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "Bit Chat With Li Li|和李力聊比特币"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2024-03-24T16:51+08:00"
+author = "李力"
+email = "348104201@qq.com"
+author_homepage = "https://www.lilibtc.com"
+description = "One of the top 1% blockchain investment experts in Huobi. CFA I level.  I studied under Ken Gleason, Vice President of the Risk Management Department of Goldman Sachs. Total return in 5 years exceeded 50 times. https://lilibtc.com/collections/frontpage-en 区块链专家（排名前1%，Huobi）令人印象深刻的资质，提供交易信号实现100%的年回报率。"
+key_words = ['Bitcoin', 'Trade', 'Strategy', 'Signal']
 language = 'zh-CN'
 external_links = [
     {
